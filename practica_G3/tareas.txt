@@ -1,0 +1,5 @@
+1:Ir a entrenar
+2:Limpiar la casa
+3:Ordenar mi cuarto
+4:Limpiar mi pelota
+5:Hacer tareas
